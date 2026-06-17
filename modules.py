@@ -6,4 +6,4 @@ print(math.pi)
 print(math.sin(90))
 
 print(random.randint(1,10))
-print(datetime.now())
+print(datetime.2 hours ago())
